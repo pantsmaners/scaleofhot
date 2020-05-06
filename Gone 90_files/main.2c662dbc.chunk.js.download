@@ -215,10 +215,10 @@
                   alt: l
                 }))
               }), o.createElement("button", {
-                className: "quibi",
+                className: "s",
                 onClick: this.toggle_quibi
-              }, "TOGGLE QUIBI MODE"), o.createElement("button", {
-                className: "piracy",
+              }, "TOGGLE QUIBI MODE"), o.createElement("s", {
+                className: "s",
                 onClick: this.toggle_piracy
               }, "ADD PIRACY"), o.createElement("div", {
                 className: "scale"
